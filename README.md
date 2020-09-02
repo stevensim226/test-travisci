@@ -1,0 +1,2 @@
+[![Build Status](https://travis-ci.com/stevensim226/test-travisci.svg?branch=master)](https://travis-ci.com/stevensim226/test-travisci)
+![GitHub](https://img.shields.io/github/license/stevensim226/test-travisci)
