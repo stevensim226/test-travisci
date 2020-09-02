@@ -1,4 +1,7 @@
 language: python
+install:
+  - pip3 install -r dependencies.txt
+  - pip3 freeze
 python:
   - 3.7
 
